@@ -1,6 +1,5 @@
 transformers>=3.0.2
 tqdm
-torch==1.2.0+cpu
 numpy
 scikit-learn
 scipy
